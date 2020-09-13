@@ -1,0 +1,12 @@
+Creation of a new venv (venv):
+$ python3 -m venv venv
+
+Activation of the venv
+$ source venv/bin/activate
+
+Django installation:
+$ pip3 install django==3.1.1
+
+
+Start the project:
+$ django-admin startproject MedicalCloud
